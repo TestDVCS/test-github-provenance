@@ -2,6 +2,9 @@
   "name": "test-dvcs-provenance-validation",
   "version": "1.0.0",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TestDVCS/test-github-provenance.git"
